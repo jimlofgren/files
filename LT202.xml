@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Export Timestamp="2024-07-29 11:50:36.443" Name="LT202" ResortId="AA435AE6-0266-4615-AF01-89D4D608FEB2">
+    <Objects>
+        <Object Type="MRObject" Id="3000001">
+            <Properties>
+                <Property Name="User10119" InvariantName="LT202_ABOVE_SEA_LEVEL" Unit="m">467,49</Property>
+            </Properties>
+            <References>
+                <Reference Type="ConfigObject" Id="100500103" />
+                <Reference Type="DLObject" Id="43000000" />
+            </References>
+        </Object>
+    </Objects>
+</Export>
